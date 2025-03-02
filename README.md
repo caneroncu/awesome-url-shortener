@@ -42,7 +42,7 @@
 * [T.LY](https://t.ly)
 * [urlr.me](https://urlr.me/en) - Reliable URL shortener that provide an API
 * [v.gd](https://v.gd)
-* [volla.link](https://volla.link) - Free URL Shortener with Analytics and QR Code Generation (no need to sign up)
+* [yolla.link](https://yolla.link) - Free URL Shortener with Analytics and QR Code Generation (no need to sign up)
 * [vo.la](https://vo.la/) - Korean URL Shortener Service
 * [yaso.su](https://yaso.su/)
 * [zlnk.com](https://zlnk.com/) - Smart Link management and URL shortner
